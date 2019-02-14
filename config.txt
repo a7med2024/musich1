@@ -1,6 +1,6 @@
-owner=349906494822547471
-prefix= ka
-game= Type ka help
+owner=444390555473149953
+prefix= M
+game= Type M help
 stayinchannel=true
 songinstatus=true 
 token=NTQ0MDc4ODEzNDQ1ODgxODU2.D0F4aA.5T_y-7h1Y8HByWHASFjvV7vDxVQ
